@@ -1,6 +1,6 @@
 # Enhancing Targeting Accuracy Using ML (Classification)
 
-![image](https://www.pngitem.com/pimgs/m/115-1157228_have-more-questions-email-gif-transparent-background-hd.png)
+![image](https://sendmunk.com/wp-content/uploads/email-marketing-3066253_960_720.jpg)
 
 Our client wants to utilise Machine Learning to reduce mailing costs, and improve ROI!
 ## Table of contents
