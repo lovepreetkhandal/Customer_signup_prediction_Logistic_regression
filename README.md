@@ -1,4 +1,4 @@
-# Enhancing Targeting Accuracy Using ML
+# Enhancing Targeting Accuracy Using ML (Classification)
 
 ![image](https://www.pngitem.com/pimgs/m/115-1157228_have-more-questions-email-gif-transparent-background-hd.png)
 
