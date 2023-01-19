@@ -1,3 +1,5 @@
+App Link: https://lovepreetkhandal-enhancing-targeting-accuracy-using-main-y5l32m.streamlit.app/
+
 # Enhancing Targeting Accuracy Using ML (Classification)
 
 ![image](https://sendmunk.com/wp-content/uploads/email-marketing-3066253_960_720.jpg)
