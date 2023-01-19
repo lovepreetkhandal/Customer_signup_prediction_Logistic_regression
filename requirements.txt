@@ -1,6 +1,5 @@
-numpy
-pandas
+streamlit ==0.76.0
+scikit-learn==1.0.1
+pandas==1.4.4
 matplotlib
-sklearn
-Flask
-gunicorn
+
